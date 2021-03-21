@@ -1,5 +1,5 @@
 # books
-:books: Learning ML and Data Science from books
+:books: В репррозиторий будут выкладываться конспекты книг по Data Science.
 
 # Books
 ## "Практическая статистика для специалистов Data Science"
